@@ -1,8 +1,7 @@
 # Ejercicios en C
 A continuacion puedes encontrar algunos ejemplos programados en lenguaje: 
 - Números impares y pares
-https://raw.githubusercontent.com/CarlosWay23/Ejercicios-en-C-/main/assets/image1.png
+![image2](https://user-images.githubusercontent.com/67843396/222318084-2e5daedd-4a6c-4022-9436-2f06a523c6f6.png)
 
-https://github.com/CarlosWay23/Ejercicios-en-C-/blob/0a77e9ea07427213abe178102ba1750c816936e8/image1.png
 - Números primos 
 - Fibonacci con funciones
