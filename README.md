@@ -1,5 +1,5 @@
 # Ejercicios en C++
-A continuacion puedes encontrar algunos ejemplos programados en lenguaje: 
+A continuacion puedes encontrar algunos ejemplos programados en C++: 
 - Números impares y pares
 
 ![image2](https://user-images.githubusercontent.com/67843396/222318408-47eb39b8-c8a8-4a4b-b3bc-96c32ec457c9.png)
